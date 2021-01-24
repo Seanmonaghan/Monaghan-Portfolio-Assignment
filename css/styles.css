@@ -92,3 +92,9 @@ h4 {
     font-weight: bold;
     text-align: center;
 }
+
+.banner-image {
+    width: 600px;
+    height: 400px;
+    padding: 50px;
+}
