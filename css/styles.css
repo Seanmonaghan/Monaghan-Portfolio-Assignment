@@ -26,6 +26,7 @@ h1 {
 }
 
 
+
 h2 {
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -50,7 +51,7 @@ h2 {
 
 
 h5, p {
-    color: white;
+    color: #f8f1f1; 
     font-size: 1.5rem;
     font-weight: bold;
     -webkit-text-stroke: 1px black;
@@ -108,4 +109,10 @@ h4 {
     width: 600px;
     height: 400px;
     padding: 50px;
+}
+
+
+li a{
+    display:block;
+    color: #222831;  
 }
