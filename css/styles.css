@@ -93,9 +93,6 @@ body {
 
 /* Projects Section */
 
-.projects {
-    margin-bottom: 150px;
-}
 
 a {
     color: #f8f1f1;
@@ -104,6 +101,11 @@ a {
 
 a:hover {
     color: grey;
+}
+
+
+.projects {
+    margin-bottom: 150px;
 }
 
 /* Jumbotron Section */
@@ -134,12 +136,12 @@ html {
 
 h4 {
     font-family: 'Martel', serif;
-    font-size: 20px;
+    font-size: 15px;
     color: white;
 }
 
 .subtext {
-    font-size: 15px;
+    font-size: 12px;
 }
 
 /* Contact List  */
