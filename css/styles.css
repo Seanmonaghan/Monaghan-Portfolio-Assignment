@@ -59,6 +59,19 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+/* Card - Contacts */
+
+.card {
+    width: 18rem;
+    text-align: center;
+    background-color: #30475e;
+    border: none;
+    font-family: 'Merriweather', serif;
+    color: #f8f1f1;
+    margin-bottom: 50px;
+}
+
+
 /* Carousel CSS */
 
 .carodiv {
